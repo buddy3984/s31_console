@@ -1,0 +1,7 @@
+
+
+#Enable tele topic reporting after a light state change
+SetOption59 1
+
+#change the tele reporting time
+teleperiod 33
